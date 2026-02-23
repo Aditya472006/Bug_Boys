@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-village_name,rainfall_current,rainfall_average,groundwater_depth,population,storage_capacity,current_storage,latitude,longitude
-Devgaon,380,720,195,4200,380000,85000,18.5124,73.8421
-Khadakwasla,620,820,142,5800,520000,210000,18.5389,73.7682
-Lonand,290,680,208,3100,280000,62000,18.6012,74.0234
-Bhor,540,790,168,4700,440000,165000,18.1689,73.8456
-Mulshi,455,755,178,3900,360000,128000,18.5245,73.5123
-Ambegaon,410,740,188,5100,480000,142000,19.1234,73.9234
-Junnar,335,695,198,3600,340000,78000,19.2012,73.8789
-Shirur,495,815,162,5400,500000,188000,18.8345,74.3789
-Rajgurunagar,268,665,215,2800,260000,48000,18.8765,73.9012
-Pune Rural,575,835,148,6200,580000,245000,18.4456,73.7567
-=======
 village_name,rainfall_current,rainfall_average,groundwater_depth,population,storage_capacity,current_storage,latitude,longitude,historical_rainfall,historical_groundwater
 Village A1,380,720,195,4200,400000,150000,18.512345,73.912345,700,200
 Village B1,620,750,170,5800,500000,250000,18.523456,73.923456,740,180
